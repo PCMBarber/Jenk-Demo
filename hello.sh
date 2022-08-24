@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo 'Hello Class';
-echo 'Waaaaalllllllleeeeeeeeeeeeeeeeeeeeeeeeeeeeeee';
+echo "It's a meee";
